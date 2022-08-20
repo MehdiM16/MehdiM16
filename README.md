@@ -1,6 +1,6 @@
-- 👋 Hi everyone, I'm Mehdi, I am currently studying Computer Science at University of Paris (France).
-- I like programming of course, but I'm also passioned by football, cars and airplanes
-- My resume will be updated soon.
+- 👋 I'm Mehdi, currently studying Computer Science at University of Paris-Cité (France).
+- I like programming of course, but I'm also passioned by football and motorsport.
+- I'll try to keep some of my personal/uni projects here.
 
 <!---
 MehdiM16/MehdiM16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
